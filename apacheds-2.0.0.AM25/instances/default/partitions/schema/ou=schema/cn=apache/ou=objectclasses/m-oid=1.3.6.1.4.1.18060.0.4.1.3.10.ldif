@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.3.10,ou=objectClasses,cn=apache,ou=schema
+entryCSN: 20240503133757.217000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 5d7182fe-a815-41b4-827f-38d9dbc5905e
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: ou
+m-must: subschemaSubentryName
+m-must: schemaModifyTimestamp
+m-must: schemaModifiersName
+m-description: a special entry tracking schema modification attributes
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.3.10
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133757.902Z
+m-name: schemaModificationAttributes
+entryParentId: b7f8daf2-823d-43c4-afad-6a146f06fbab

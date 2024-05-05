@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.804,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20240503133756.559000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.44
+m-singlevalue: TRUE
+m-ordering: caseExactOrderingMatch
+entryUUID: 0e13e7fa-6758-496d-a547-83f87e8ff07d
+m-substr: caseExactSubstringsMatch
+m-equality: caseExactMatch
+m-description: Fully qualified class name of the interceptor
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.804
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20240503133758.236Z
+m-name: ads-interceptorClassName
+entryParentId: aafd0ede-2af7-4d76-a0ab-856d8760ebb9

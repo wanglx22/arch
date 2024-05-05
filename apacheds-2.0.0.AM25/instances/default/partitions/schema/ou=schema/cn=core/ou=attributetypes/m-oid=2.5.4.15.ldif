@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=2.5.4.15,ou=attributeTypes,cn=core,ou=schema
+entryCSN: 20240503133756.334000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+creatorsname: uid=admin,ou=system
+m-collective: FALSE
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: FALSE
+entryUUID: b76fd898-9665-47a5-8c53-b7b4a1eed824
+m-substr: caseIgnoreSubstringsMatch
+m-equality: caseIgnoreMatch
+m-description: RFC2256: business category
+m-obsolete: FALSE
+m-oid: 2.5.4.15
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.388Z
+m-name: businessCategory
+entryParentId: 3f5a4670-4eb3-4653-b362-6a53897dfe72

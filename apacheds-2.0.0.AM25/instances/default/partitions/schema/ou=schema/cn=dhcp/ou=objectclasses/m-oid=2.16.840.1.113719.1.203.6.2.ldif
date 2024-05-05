@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=2.16.840.1.113719.1.203.6.2,ou=objectClasses,cn=dhcp,ou=schema
+entryCSN: 20240503133756.964000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: b7d55daf-f2e9-460c-a26c-0e1d563efa8d
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: cn
+m-description: This stores configuration information for a shared network.
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113719.1.203.6.2
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.268Z
+m-name: dhcpSharedNetwork
+entryParentId: b22f95bc-f5a4-4962-916f-c4d83bc836aa

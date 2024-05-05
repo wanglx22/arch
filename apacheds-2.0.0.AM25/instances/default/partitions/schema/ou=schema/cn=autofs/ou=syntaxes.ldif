@@ -1,0 +1,10 @@
+version: 1
+dn: ou=syntaxes,cn=autofs,ou=schema
+entryCSN: 20240503133756.373000Z#000000#000#000000
+ou: syntaxes
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20240503133758.047Z
+creatorsname: uid=admin,ou=system
+entryUUID: ecb8dae4-a3eb-4918-9739-ba94a0b8c9e2
+entryParentId: 593713db-b4e6-4cdd-a7fd-5aabb869c182

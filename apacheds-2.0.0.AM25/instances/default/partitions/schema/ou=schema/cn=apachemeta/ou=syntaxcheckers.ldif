@@ -1,0 +1,10 @@
+version: 1
+dn: ou=syntaxCheckers,cn=apachemeta,ou=schema
+entryCSN: 20240503133756.838000Z#000001#000#000000
+ou: syntaxcheckers
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20240503133758.141Z
+creatorsname: uid=admin,ou=system
+entryUUID: fae528cd-9b08-4607-a21c-f6b0089b6da5
+entryParentId: 6c2119e0-95ae-441d-9351-91124d3efe93

@@ -1,0 +1,16 @@
+dn: m-oid=1.3.6.1.4.1.18060.17.1.14, ou=attributetypes, cn=fortress, ou=schema
+entryCSN: 20240503133912.300000Z#000000#001#000000
+m-description: Fortress User Role Assignments
+m-oid: 1.3.6.1.4.1.18060.17.1.14
+objectclass: metaTop
+objectclass: top
+objectclass: metaAttributeType
+createTimestamp: 20240503133912.300Z
+m-name: ftRA
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+entryUUID: 278fb281-81c7-4b90-86bb-31e061f58529
+m-substr: caseIgnoreSubstringsMatch
+m-equality: caseIgnoreMatch
+entryParentId: c5026569-54f4-4bd1-9ca4-058fd112ba4c

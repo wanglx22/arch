@@ -1,0 +1,10 @@
+version: 1
+dn: ou=attributeTypes,cn=inetorgperson,ou=schema
+entryCSN: 20240503133757.025000Z#000000#000#000000
+ou: attributetypes
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20240503133758.282Z
+creatorsname: uid=admin,ou=system
+entryUUID: b794aab7-5e24-4ec0-ab27-93123535b705
+entryParentId: 4db6c02c-5fac-41a2-8fcf-595b9ace9691

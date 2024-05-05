@@ -1,0 +1,10 @@
+dn: ou=matchingruleuse, cn=fortress, ou=schema
+entryCSN: 20240503133912.741000Z#000000#001#000000
+ou: matchingruleuse
+objectclass: top
+objectclass: organizationalUnit
+createTimestamp: 20240503133912.741Z
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+entryUUID: 083a4b66-ba19-4c86-91ed-df476d6a5fdc
+entryParentId: a6c9931f-e6ba-42d4-91d0-26c942df5774

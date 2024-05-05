@@ -1,0 +1,10 @@
+version: 1
+dn: ou=comparators,cn=apachedns,ou=schema
+entryCSN: 20240503133757.134000Z#000001#000#000000
+ou: comparators
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20240503133758.308Z
+creatorsname: uid=admin,ou=system
+entryUUID: 3105f2db-7a47-4862-9a8b-b367773affbf
+entryParentId: 630242ea-718e-4aa1-8f18-f4dab3a0f288

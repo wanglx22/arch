@@ -1,0 +1,10 @@
+version: 1
+dn: ou=syntaxes,cn=apachemeta,ou=schema
+entryCSN: 20240503133756.841000Z#000000#000#000000
+ou: syntaxes
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20240503133758.079Z
+creatorsname: uid=admin,ou=system
+entryUUID: 003a1fa7-f512-4a34-90bb-d28b5f1eaf8f
+entryParentId: 6c2119e0-95ae-441d-9351-91124d3efe93

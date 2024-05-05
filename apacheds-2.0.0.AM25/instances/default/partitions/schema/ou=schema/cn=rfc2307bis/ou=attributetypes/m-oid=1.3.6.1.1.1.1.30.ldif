@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.1.1.1.30,ou=attributeTypes,cn=rfc2307bis,ou=schema
+entryCSN: 20240503133757.111000Z#000000#000#000000
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+entryUUID: abfe38b3-5afc-4f3b-bbbe-13aa31d00dd8
+m-equality: caseIgnoreIA5Match
+m-description: NIS domain
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+m-oid: 1.3.6.1.1.1.1.30
+createTimestamp: 20240503133757.928Z
+m-name: nisDomain
+entryParentId: e4208163-88d1-4c02-9d2a-6b931976bbc1

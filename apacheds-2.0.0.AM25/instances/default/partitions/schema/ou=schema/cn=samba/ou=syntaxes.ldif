@@ -1,0 +1,10 @@
+version: 1
+dn: ou=syntaxes,cn=samba,ou=schema
+entryCSN: 20240503133756.384000Z#000000#000#000000
+ou: syntaxes
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20240503133758.093Z
+creatorsname: uid=admin,ou=system
+entryUUID: dbfec4e1-ac7a-4bcd-ac39-b3d5765feb0b
+entryParentId: 65a63927-2448-424b-813e-0f4d49d0b856

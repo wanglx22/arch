@@ -1,0 +1,15 @@
+dn: ads-interceptorId=administrativePointInterceptor,ou=interceptors,ads-directo
+ ryServiceId=default,ou=config
+entryCSN: 20240503133755.950000Z#000000#000#000000
+objectclass: top
+objectclass: ads-base
+objectclass: ads-interceptor
+createTimestamp: 20240503133755.950Z
+creatorsName: uid=admin,ou=system
+ads-enabled: TRUE
+entryUUID: 9288fa48-7296-459c-b944-9eacec3bb31c
+ads-interceptorclassname: org.apache.directory.server.core.admin.AdministrativeP
+ ointInterceptor
+ads-interceptororder: 6
+ads-interceptorid: administrativePointInterceptor
+entryParentId: 1138fbea-1ca5-4d3f-ba7e-19a1034b8b23

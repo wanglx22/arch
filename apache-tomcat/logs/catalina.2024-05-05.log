@@ -1,0 +1,59 @@
+05-May-2024 02:16:12.015 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.88
+05-May-2024 02:16:12.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 9 2024 13:22:30 UTC
+05-May-2024 02:16:12.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.88.0
+05-May-2024 02:16:12.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+05-May-2024 02:16:12.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.4.0-177-generic
+05-May-2024 02:16:12.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-May-2024 02:16:12.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-8-openjdk-amd64/jre
+05-May-2024 02:16:12.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_402-8u402-ga-2ubuntu1~20.04-b06
+05-May-2024 02:16:12.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+05-May-2024 02:16:12.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/wanglx/arch/apache-tomcat
+05-May-2024 02:16:12.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/wanglx/arch/apache-tomcat
+05-May-2024 02:16:12.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/wanglx/arch/apache-tomcat/conf/logging.properties
+05-May-2024 02:16:12.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-May-2024 02:16:12.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-May-2024 02:16:12.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-May-2024 02:16:12.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+05-May-2024 02:16:12.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfortress.admin.user=uid=admin,ou=system
+05-May-2024 02:16:12.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfortress.admin.pw=secret
+05-May-2024 02:16:12.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfortress.config.root=ou=Config,dc=example,dc=com
+05-May-2024 02:16:12.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfortress.port=10389
+05-May-2024 02:16:12.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-May-2024 02:16:12.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/wanglx/arch/apache-tomcat
+05-May-2024 02:16:12.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/wanglx/arch/apache-tomcat
+05-May-2024 02:16:12.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/wanglx/arch/apache-tomcat/temp
+05-May-2024 02:16:12.029 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+05-May-2024 02:16:12.403 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-May-2024 02:16:12.430 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [671] milliseconds
+05-May-2024 02:16:12.485 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-May-2024 02:16:12.485 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.88]
+05-May-2024 02:16:12.510 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/wanglx/arch/apache-tomcat/webapps/fortress-web.war]
+05-May-2024 02:16:12.520 INFO [main] org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy.setDefaultRoles org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy.setDefaultRoles <>
+05-May-2024 02:16:12.521 INFO [main] org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy.setContainerType org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy.setContainerType <TomcatContext>
+05-May-2024 02:16:12.521 INFO [main] org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy.setRealmClasspath org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy.setRealmClasspath <>
+05-May-2024 02:16:12.521 INFO [main] org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy.setContextId org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy.setContextId <HOME>
+05-May-2024 02:16:12.750 INFO [main] org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy.initialize org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy.initialize Tomcat7 Context-based policy agent
+05-May-2024 02:16:12.750 INFO [main] org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy.initialize org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy.initialize - instantiate policy agent name: org.apache.directory.fortress.realm.tomcat.TcAccessMgrImpl
+05-May-2024 02:16:13.564 INFO [main] org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy.initialize org.apache.directory.fortress.realm.tomcat.Tc7AccessMgrProxy J2EE Tomcat7 policy agent, contextId: HOME, defaultRoles: 
+05-May-2024 02:16:16.090 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-May-2024 02:16:16.730 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/wanglx/arch/apache-tomcat/webapps/fortress-web.war] has finished in [4,219] ms
+05-May-2024 02:16:16.730 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/wanglx/arch/apache-tomcat/webapps/manager]
+05-May-2024 02:16:16.748 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-May-2024 02:16:16.752 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/wanglx/arch/apache-tomcat/webapps/manager] has finished in [22] ms
+05-May-2024 02:16:16.752 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/wanglx/arch/apache-tomcat/webapps/ROOT]
+05-May-2024 02:16:16.764 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-May-2024 02:16:16.766 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/wanglx/arch/apache-tomcat/webapps/ROOT] has finished in [14] ms
+05-May-2024 02:16:16.766 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/wanglx/arch/apache-tomcat/webapps/docs]
+05-May-2024 02:16:16.778 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-May-2024 02:16:16.779 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/wanglx/arch/apache-tomcat/webapps/docs] has finished in [13] ms
+05-May-2024 02:16:16.782 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-May-2024 02:16:16.808 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4377] milliseconds
+05-May-2024 04:55:48.827 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+05-May-2024 04:55:48.828 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-May-2024 04:55:48.831 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-May-2024 04:55:48.848 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [fortress-web] appears to have started a thread named [fortress-commander] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.util.TimerThread.mainLoop(Timer.java:552)
+ java.util.TimerThread.run(Timer.java:505)
+05-May-2024 04:55:48.853 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-May-2024 04:55:48.865 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

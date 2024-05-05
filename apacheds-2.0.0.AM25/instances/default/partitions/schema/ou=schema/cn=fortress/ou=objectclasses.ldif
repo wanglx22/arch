@@ -1,0 +1,10 @@
+dn: ou=objectclasses, cn=fortress, ou=schema
+entryCSN: 20240503133912.747000Z#000000#001#000000
+ou: objectClasses
+objectclass: top
+objectclass: organizationalUnit
+createTimestamp: 20240503133912.747Z
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+entryUUID: 8c332cf1-ebad-410b-a984-34b316400f98
+entryParentId: a6c9931f-e6ba-42d4-91d0-26c942df5774

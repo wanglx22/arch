@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=0.9.2342.19200300.100.4.17,ou=objectClasses,cn=cosine,ou=schema
+entryCSN: 20240503133757.100000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 955c33a4-9ee3-4677-ba32-9ec41e23517b
+m-typeobjectclass: AUXILIARY
+m-supobjectclass: top
+m-must: associatedDomain
+m-description: RFC1274: an object related to an domain
+m-obsolete: FALSE
+m-oid: 0.9.2342.19200300.100.4.17
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.082Z
+m-name: domainRelatedObject
+entryParentId: d5ae6c87-7fad-48d2-acf6-28deb2e4d91e

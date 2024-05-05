@@ -1,0 +1,14 @@
+dn: ads-saslMechName=SIMPLE,ou=saslMechHandlers,ads-serverId=ldapServer,ou=serve
+ rs,ads-directoryServiceId=default,ou=config
+ads-saslmechname: SIMPLE
+entryCSN: 20240503133756.047000Z#000000#000#000000
+ads-saslmechclassname: org.apache.directory.server.ldap.handlers.sasl.SimpleMech
+ anismHandler
+objectclass: ads-saslMechHandler
+objectclass: ads-base
+objectclass: top
+createTimestamp: 20240503133756.048Z
+creatorsName: uid=admin,ou=system
+ads-enabled: TRUE
+entryUUID: dc4245e4-7cd3-4cfd-a4a7-faf009bc3198
+entryParentId: 1af835de-934a-42e8-9890-a636d38877c1

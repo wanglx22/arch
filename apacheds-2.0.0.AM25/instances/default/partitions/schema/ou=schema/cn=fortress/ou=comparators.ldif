@@ -1,0 +1,10 @@
+dn: ou=comparators, cn=fortress, ou=schema
+entryCSN: 20240503133912.732000Z#000000#001#000000
+ou: comparators
+objectclass: top
+objectclass: organizationalUnit
+createTimestamp: 20240503133912.732Z
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+entryUUID: 50589724-2ae7-47d6-94b0-558e38bbce09
+entryParentId: a6c9931f-e6ba-42d4-91d0-26c942df5774

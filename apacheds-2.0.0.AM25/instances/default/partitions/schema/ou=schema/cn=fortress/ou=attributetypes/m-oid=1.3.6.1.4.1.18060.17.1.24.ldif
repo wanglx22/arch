@@ -1,0 +1,17 @@
+dn: m-oid=1.3.6.1.4.1.18060.17.1.24, ou=attributetypes, cn=fortress, ou=schema
+entryCSN: 20240503133912.473000Z#000000#001#000000
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singleValue: TRUE
+entryUUID: c30244f6-3647-4291-bbc8-b22ff7e5cf2e
+m-substr: caseIgnoreSubstringsMatch
+m-equality: caseIgnoreMatch
+m-description: Fortress Audit Modifier Internal UserID
+m-oid: 1.3.6.1.4.1.18060.17.1.24
+objectclass: metaTop
+objectclass: top
+objectclass: metaAttributeType
+createTimestamp: 20240503133912.474Z
+m-name: ftModifier
+entryParentId: c5026569-54f4-4bd1-9ca4-058fd112ba4c

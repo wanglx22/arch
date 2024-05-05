@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=2.16.840.1.113730.3.1.4,ou=attributeTypes,cn=inetorgperson,ou=schema
+entryCSN: 20240503133757.035000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+creatorsname: uid=admin,ou=system
+m-collective: FALSE
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+m-singlevalue: FALSE
+entryUUID: 2402857f-593b-41c6-95f8-80e7a3c5b835
+m-substr: caseIgnoreSubstringsMatch
+m-equality: caseIgnoreMatch
+m-description: RFC2798: type of employment for a person
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113730.3.1.4
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.431Z
+m-name: employeeType
+entryParentId: b794aab7-5e24-4ec0-ab27-93123535b705

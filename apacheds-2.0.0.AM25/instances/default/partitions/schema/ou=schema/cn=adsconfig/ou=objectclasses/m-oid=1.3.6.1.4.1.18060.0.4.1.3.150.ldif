@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.3.150,ou=objectClasses,cn=adsconfig,ou=schema
+entryCSN: 20240503133756.650000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 21017cb6-13af-49a6-b058-cbb42ad3193c
+m-may: ads-contextEntry
+m-may: ads-partitionSyncOnWrite
+m-typeobjectclass: ABSTRACT
+m-supobjectclass: ads-base
+m-must: ads-partitionId
+m-must: ads-partitionSuffix
+m-description: A generic partition
+m-oid: 1.3.6.1.4.1.18060.0.4.1.3.150
+objectclass: top
+objectclass: metaTop
+objectclass: metaObjectClass
+createTimestamp: 20240503133758.087Z
+m-name: ads-partition
+entryParentId: 0f0e791c-713b-4c5e-a873-e871a99a8cce

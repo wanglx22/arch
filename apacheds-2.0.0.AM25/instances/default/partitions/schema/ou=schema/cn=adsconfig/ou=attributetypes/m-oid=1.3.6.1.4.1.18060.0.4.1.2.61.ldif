@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.61,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20240503133756.522000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+m-singlevalue: TRUE
+m-ordering: caseExactOrderingMatch
+entryUUID: 62e389a3-97e0-4e26-a21e-bdcf9df26d51
+m-substr: caseIgnoreIA5SubstringsMatch
+m-equality: caseIgnoreOrderingMatch
+m-description: The Address to listen on.
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.61
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20240503133757.811Z
+m-name: ads-transportAddress
+entryParentId: aafd0ede-2af7-4d76-a0ab-856d8760ebb9

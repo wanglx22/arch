@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.1.1.1.22,ou=attributeTypes,cn=nis,ou=schema
+entryCSN: 20240503133756.996000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+m-singlevalue: FALSE
+entryUUID: e2def87a-beb8-46d1-8f60-df7cc51a21fa
+m-equality: caseIgnoreIA5Match
+m-description: MAC address
+m-obsolete: FALSE
+m-oid: 1.3.6.1.1.1.1.22
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.502Z
+m-name: macAddress
+entryParentId: 77b02b82-5019-4c2b-939f-e1f95ade28e1

@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.16.840.1.113719.1.203.4.26,ou=attributeTypes,cn=dhcp,ou=schema
+entryCSN: 20240503133756.923000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.7
+m-singlevalue: TRUE
+entryUUID: 4b375c08-fd87-4a75-879e-01e6ad505508
+m-equality: integerMatch
+m-description: This indicates whether the address was assigned via BOOTP.
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113719.1.203.4.26
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.327Z
+m-name: dhcpBootpFlag
+entryParentId: 4180bca8-af71-49ae-8ad0-416941dc9f74

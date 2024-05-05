@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=2.16.840.1.113719.1.203.6.5,ou=objectClasses,cn=dhcp,ou=schema
+entryCSN: 20240503133756.968000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: dd37e2aa-e9ba-4558-8c2d-e453c1147a61
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: cn
+m-description: Group object that lists host DNs and parameters. This is a contai
+ ner object.
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113719.1.203.6.5
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.321Z
+m-name: dhcpGroup
+entryParentId: b22f95bc-f5a4-4962-916f-c4d83bc836aa

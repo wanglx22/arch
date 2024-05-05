@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.811,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20240503133756.595000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.44
+m-singlevalue: TRUE
+m-ordering: caseExactOrderingMatch
+entryUUID: 7f354daf-474f-48fa-8bbd-d08e1b0bbfe6
+m-substr: caseExactSubstringsMatch
+m-equality: caseExactMatch
+m-description: Fully qualified class name of the extended operation handler
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.811
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20240503133758.451Z
+m-name: ads-extendedOpHandlerClass
+entryParentId: aafd0ede-2af7-4d76-a0ab-856d8760ebb9

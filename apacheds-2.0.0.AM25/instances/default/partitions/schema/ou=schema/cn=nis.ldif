@@ -1,0 +1,14 @@
+version: 1
+dn: cn=nis,ou=schema
+entryCSN: 20240503133756.237000Z#000001#000#000000
+cn: nis
+objectclass: metaSchema
+objectclass: top
+createTimestamp: 20240503133758.418Z
+m-dependencies: system
+m-dependencies: core
+m-dependencies: cosine
+creatorsname: uid=admin,ou=system
+m-disabled: TRUE
+entryUUID: 9f0e9cf4-c55f-4fd8-86c1-7300862be01a
+entryParentId: 6f76e8e7-97c5-45f3-ba93-19938bfef95d

@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.813,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20240503133756.530000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.44
+m-singlevalue: TRUE
+m-ordering: caseIgnoreOrderingMatch
+entryUUID: 96358176-5c99-4aac-8a52-74a4e390fc4a
+m-substr: caseIgnoreSubstringsMatch
+m-equality: caseIgnoreMatch
+m-description: a web app archive
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.813
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20240503133758.333Z
+m-name: ads-httpWarFile
+entryParentId: aafd0ede-2af7-4d76-a0ab-856d8760ebb9

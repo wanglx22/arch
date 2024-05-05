@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.1.1.2.4,ou=objectClasses,cn=nis,ou=schema
+entryCSN: 20240503133757.011000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 3398b591-ed3a-4339-b949-c3445822b2d5
+m-may: description
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: cn
+m-description: Abstraction of an IP protocol
+m-obsolete: FALSE
+m-oid: 1.3.6.1.1.1.2.4
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.193Z
+m-name: ipProtocol
+entryParentId: f493f545-ea7e-41dd-aaea-0dca2e310328

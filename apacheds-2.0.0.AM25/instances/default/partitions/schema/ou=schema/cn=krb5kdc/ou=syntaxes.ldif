@@ -1,0 +1,10 @@
+version: 1
+dn: ou=syntaxes,cn=krb5kdc,ou=schema
+entryCSN: 20240503133756.495000Z#000001#000#000000
+ou: syntaxes
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20240503133758.223Z
+creatorsname: uid=admin,ou=system
+entryUUID: 587300d1-4b65-4f4f-be0b-8feea07904ff
+entryParentId: 3facf905-c015-4a96-ae0f-6e95223757b2

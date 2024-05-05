@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.5.4.40,ou=attributeTypes,cn=core,ou=schema
+entryCSN: 20240503133756.306000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.10
+m-singlevalue: FALSE
+entryUUID: c525d792-544b-4755-b7c2-9dfdf243f67d
+m-equality: certificatePairExactMatch
+m-description: X.509 cross certificate pair
+m-obsolete: FALSE
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+m-oid: 2.5.4.40
+createTimestamp: 20240503133758.245Z
+m-name: crossCertificatePair
+entryParentId: 3f5a4670-4eb3-4653-b362-6a53897dfe72

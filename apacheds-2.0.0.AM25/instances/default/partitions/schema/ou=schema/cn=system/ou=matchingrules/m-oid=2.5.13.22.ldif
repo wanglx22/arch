@@ -1,0 +1,14 @@
+version: 1
+dn: m-oid=2.5.13.22,ou=matchingRules,cn=system,ou=schema
+entryCSN: 20240503133756.740000Z#000001#000#000000
+m-obsolete: FALSE
+m-oid: 2.5.13.22
+objectclass: metaMatchingRule
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.161Z
+m-name: presentationAddressMatch
+creatorsname: uid=admin,ou=system
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.43
+entryUUID: ec46174f-8806-4704-ab6f-0477d2c26b8f
+entryParentId: 0ccbfd84-c5db-4c99-b096-9f588f278574

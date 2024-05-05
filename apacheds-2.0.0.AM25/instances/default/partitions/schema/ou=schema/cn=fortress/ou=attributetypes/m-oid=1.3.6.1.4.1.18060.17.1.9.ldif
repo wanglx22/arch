@@ -1,0 +1,16 @@
+dn: m-oid=1.3.6.1.4.1.18060.17.1.9, ou=attributetypes, cn=fortress, ou=schema
+entryCSN: 20240503133912.220000Z#000000#001#000000
+m-description: Fortress User IDs
+m-oid: 1.3.6.1.4.1.18060.17.1.9
+objectclass: metaTop
+objectclass: top
+objectclass: metaAttributeType
+createTimestamp: 20240503133912.220Z
+m-name: ftUsers
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.15
+entryUUID: e2bf5458-fe0d-446a-b22c-7592563a7493
+m-substr: caseIgnoreSubstringsMatch
+m-equality: caseIgnoreMatch
+entryParentId: c5026569-54f4-4bd1-9ca4-058fd112ba4c

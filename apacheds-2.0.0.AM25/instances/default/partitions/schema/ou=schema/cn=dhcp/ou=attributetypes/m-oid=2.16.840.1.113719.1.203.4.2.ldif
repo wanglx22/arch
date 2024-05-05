@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=2.16.840.1.113719.1.203.4.2,ou=attributeTypes,cn=dhcp,ou=schema
+entryCSN: 20240503133756.920000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.12
+m-singlevalue: FALSE
+entryUUID: 4c27458c-d4fc-46d3-a829-c025e3492254
+m-equality: distinguishedNameMatch
+m-description: The DN of dhcpServer(s) which provide backup service for the conf
+ iguration.
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113719.1.203.4.2
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.366Z
+m-name: dhcpSecondaryDN
+entryParentId: 4180bca8-af71-49ae-8ad0-416941dc9f74

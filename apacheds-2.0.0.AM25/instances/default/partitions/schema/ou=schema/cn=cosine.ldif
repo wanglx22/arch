@@ -1,0 +1,12 @@
+version: 1
+dn: cn=cosine,ou=schema
+entryCSN: 20240503133756.232000Z#000001#000#000000
+cn: cosine
+objectclass: metaSchema
+objectclass: top
+createTimestamp: 20240503133758.134Z
+m-dependencies: system
+m-dependencies: core
+creatorsname: uid=admin,ou=system
+entryUUID: 4797bd0b-3c35-4a3c-90df-5978641be5d7
+entryParentId: 6f76e8e7-97c5-45f3-ba93-19938bfef95d

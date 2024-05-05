@@ -1,0 +1,15 @@
+dn: ads-interceptorId=journalInterceptor,ou=interceptors,ads-directoryServiceId=
+ default,ou=config
+entryCSN: 20240503133755.965000Z#000000#000#000000
+objectclass: top
+objectclass: ads-base
+objectclass: ads-interceptor
+createTimestamp: 20240503133755.965Z
+creatorsName: uid=admin,ou=system
+ads-enabled: TRUE
+entryUUID: 9c92ba09-56a7-4146-8f84-2c5f6aa3dcc0
+ads-interceptorclassname: org.apache.directory.server.core.journal.JournalInterc
+ eptor
+ads-interceptororder: 16
+ads-interceptorid: journalInterceptor
+entryParentId: 1138fbea-1ca5-4d3f-ba7e-19a1034b8b23

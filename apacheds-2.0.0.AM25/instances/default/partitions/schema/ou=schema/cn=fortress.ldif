@@ -1,0 +1,11 @@
+dn: cn=fortress, ou=schema
+entryCSN: 20240503133912.026000Z#000000#001#000000
+cn: fortress
+objectclass: top
+objectclass: metaSchema
+createTimestamp: 20240503133912.026Z
+m-dependencies: system
+m-dependencies: core
+creatorsname: uid=admin,ou=system
+entryUUID: a6c9931f-e6ba-42d4-91d0-26c942df5774
+entryParentId: 6f76e8e7-97c5-45f3-ba93-19938bfef95d

@@ -1,0 +1,10 @@
+version: 1
+dn: ou=comparators,cn=dhcp,ou=schema
+entryCSN: 20240503133756.916000Z#000000#000#000000
+ou: comparators
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20240503133757.930Z
+creatorsname: uid=admin,ou=system
+entryUUID: e64d5d01-aa27-463a-b554-7650cf66b366
+entryParentId: e1868a86-80bc-4137-8df3-9b3777198115

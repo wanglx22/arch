@@ -1,0 +1,24 @@
+dn: m-oid=1.3.6.1.4.1.18060.17.2.10, ou=objectclasses, cn=fortress, ou=schema
+m-may: ftPADataType
+m-may: ftPADefaultValue
+m-may: ftPADefaultStrategy
+m-may: ftPADefaultOperator
+m-may: ftPAValidVals
+m-may: description
+entryCSN: 20240503133912.911000Z#000000#001#000000
+m-supObjectClass: organizationalrole
+m-must: ftId
+m-must: ftPASet
+m-must: ftPA
+m-must: cn
+m-description: Fortress Attribute Structural Object Class
+m-oid: 1.3.6.1.4.1.18060.17.2.10
+objectclass: metaTop
+objectclass: metaObjectClass
+objectclass: top
+createTimestamp: 20240503133912.911Z
+m-name: ftAttribute
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+entryUUID: f50d9ccb-b51b-4955-8dcf-6f1076ba6611
+entryParentId: 8c332cf1-ebad-410b-a984-34b316400f98

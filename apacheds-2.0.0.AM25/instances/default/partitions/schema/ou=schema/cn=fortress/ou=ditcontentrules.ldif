@@ -1,0 +1,10 @@
+dn: ou=ditcontentrules, cn=fortress, ou=schema
+entryCSN: 20240503133912.735000Z#000000#001#000000
+ou: ditcontentrules
+objectclass: top
+objectclass: organizationalUnit
+createTimestamp: 20240503133912.735Z
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+entryUUID: c2cc7178-6a9c-4f2a-9e65-84bae7f60b97
+entryParentId: a6c9931f-e6ba-42d4-91d0-26c942df5774

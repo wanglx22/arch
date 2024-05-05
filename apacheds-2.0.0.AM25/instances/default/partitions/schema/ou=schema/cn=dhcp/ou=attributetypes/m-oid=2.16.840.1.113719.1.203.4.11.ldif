@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.16.840.1.113719.1.203.4.11,ou=attributeTypes,cn=dhcp,ou=schema
+entryCSN: 20240503133756.924000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.12
+m-singlevalue: FALSE
+entryUUID: 8fc33c91-0e77-49df-91f9-7754f5d60386
+m-equality: distinguishedNameMatch
+m-description: The distinguished name(s) of pools.
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113719.1.203.4.11
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.370Z
+m-name: dhcpPoolDN
+entryParentId: 4180bca8-af71-49ae-8ad0-416941dc9f74

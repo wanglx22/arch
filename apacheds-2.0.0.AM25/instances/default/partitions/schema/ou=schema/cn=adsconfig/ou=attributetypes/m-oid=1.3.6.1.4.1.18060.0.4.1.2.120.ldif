@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.120,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20240503133756.561000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.44
+m-singlevalue: TRUE
+m-ordering: caseExactOrderingMatch
+entryUUID: 495c8404-6927-454b-8f48-eadf16245f37
+m-substr: caseExactSubstringsMatch
+m-supattributetype: name
+m-equality: caseExactMatch
+m-description: The ChangeLog identifier
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.120
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20240503133758.512Z
+m-name: ads-changeLogId
+entryParentId: aafd0ede-2af7-4d76-a0ab-856d8760ebb9

@@ -1,0 +1,15 @@
+dn: ads-interceptorId=subentryInterceptor,ou=interceptors,ads-directoryServiceId
+ =default,ou=config
+entryCSN: 20240503133755.959000Z#000000#000#000000
+objectclass: top
+objectclass: ads-base
+objectclass: ads-interceptor
+createTimestamp: 20240503133755.959Z
+creatorsName: uid=admin,ou=system
+ads-enabled: TRUE
+entryUUID: 51b7d56d-a7f5-4738-816c-06f13865ac3c
+ads-interceptorclassname: org.apache.directory.server.core.subtree.SubentryInter
+ ceptor
+ads-interceptororder: 13
+ads-interceptorid: subentryInterceptor
+entryParentId: 1138fbea-1ca5-4d3f-ba7e-19a1034b8b23

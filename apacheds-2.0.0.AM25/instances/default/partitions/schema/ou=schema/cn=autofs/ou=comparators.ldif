@@ -1,0 +1,10 @@
+version: 1
+dn: ou=comparators,cn=autofs,ou=schema
+entryCSN: 20240503133756.372000Z#000001#000#000000
+ou: comparators
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20240503133758.393Z
+creatorsname: uid=admin,ou=system
+entryUUID: 799bcb6a-ffaf-4d7e-b906-9703471a131f
+entryParentId: 593713db-b4e6-4cdd-a7fd-5aabb869c182

@@ -1,0 +1,21 @@
+/* AUTOMATICALLY GENERATED ON Wed May 01 07:55:23 UTC 2024*/
+/* DO NOT EDIT */
+
+grant {
+  permission javax.security.jacc.WebUserDataPermission "/";
+  permission javax.security.jacc.WebResourcePermission "/";
+};
+
+grant      principal * * {
+  permission javax.security.jacc.WebRoleRefPermission "jsp", "**";
+  permission javax.security.jacc.WebRoleRefPermission "", "**";
+  permission javax.security.jacc.WebRoleRefPermission "Faces Servlet", "**";
+  permission javax.security.jacc.WebRoleRefPermission "adw", "**";
+  permission javax.security.jacc.WebRoleRefPermission "adflibResources", "**";
+  permission javax.security.jacc.WebRoleRefPermission "BIGRAPHSERVLET", "**";
+  permission javax.security.jacc.WebRoleRefPermission "resources", "**";
+  permission javax.security.jacc.WebRoleRefPermission "BIGAUGESERVLET", "**";
+  permission javax.security.jacc.WebRoleRefPermission "MapProxyServlet", "**";
+  permission javax.security.jacc.WebRoleRefPermission "default", "**";
+};
+

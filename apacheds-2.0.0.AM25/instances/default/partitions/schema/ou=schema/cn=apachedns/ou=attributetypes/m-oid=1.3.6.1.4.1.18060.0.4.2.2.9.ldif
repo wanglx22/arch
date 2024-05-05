@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.2.2.9,ou=attributeTypes,cn=apachedns,ou=schema
+entryCSN: 20240503133757.143000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+entryUUID: da6bef3f-c7c8-428d-8583-1d5df99b5736
+m-equality: integerMatch
+m-description: A 32 bit time interval before the zone should be refreshed
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.2.2.9
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133757.796Z
+m-name: apacheDnsSoaRefresh
+entryParentId: fcece2a7-aaae-4d68-a5be-0b5d2cec14db

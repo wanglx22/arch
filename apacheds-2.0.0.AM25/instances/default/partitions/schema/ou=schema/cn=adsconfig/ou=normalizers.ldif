@@ -1,0 +1,10 @@
+version: 1
+dn: ou=normalizers,cn=adsconfig,ou=schema
+entryCSN: 20240503133756.513000Z#000000#000#000000
+ou: normalizers
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20240503133758.310Z
+creatorsname: uid=admin,ou=system
+entryUUID: 82c4137b-5265-43bd-a00e-569f05667914
+entryParentId: cd55ed2c-8b6f-4c7c-b6b5-1db50d5356fd

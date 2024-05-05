@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.1.1.1.3,ou=attributeTypes,cn=nis,ou=schema
+entryCSN: 20240503133756.988000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.26
+m-singlevalue: TRUE
+entryUUID: 49065817-dec4-49aa-956d-755d7851120c
+m-equality: caseExactIA5Match
+m-description: The absolute path to the home directory
+m-obsolete: FALSE
+m-oid: 1.3.6.1.1.1.1.3
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.204Z
+m-name: homeDirectory
+entryParentId: 77b02b82-5019-4c2b-939f-e1f95ade28e1

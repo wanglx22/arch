@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=2.16.840.1.113719.1.203.6.12,ou=objectClasses,cn=dhcp,ou=schema
+entryCSN: 20240503133756.966000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 36d7f4e9-d1ff-45dd-88d4-d7b9bd5d9149
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: cn
+m-description: DHCP Server Object
+m-obsolete: FALSE
+m-oid: 2.16.840.1.113719.1.203.6.12
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.258Z
+m-name: dhcpServer
+entryParentId: b22f95bc-f5a4-4962-916f-c4d83bc836aa

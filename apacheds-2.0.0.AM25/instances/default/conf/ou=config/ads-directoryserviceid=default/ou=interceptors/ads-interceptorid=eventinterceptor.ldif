@@ -1,0 +1,15 @@
+dn: ads-interceptorId=eventInterceptor,ou=interceptors,ads-directoryServiceId=de
+ fault,ou=config
+entryCSN: 20240503133755.961000Z#000000#000#000000
+objectclass: top
+objectclass: ads-base
+objectclass: ads-interceptor
+createTimestamp: 20240503133755.961Z
+creatorsName: uid=admin,ou=system
+ads-enabled: TRUE
+entryUUID: 09e5c6a1-aa34-4650-83f9-8755c02232f8
+ads-interceptorclassname: org.apache.directory.server.core.event.EventIntercepto
+ r
+ads-interceptororder: 14
+ads-interceptorid: eventInterceptor
+entryParentId: 1138fbea-1ca5-4d3f-ba7e-19a1034b8b23

@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=2.5.6.11,ou=objectClasses,cn=core,ou=schema
+entryCSN: 20240503133756.355000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: cb53197e-1975-4f2c-92b2-0c7a1cf6329c
+m-may: seeAlso
+m-may: ou
+m-may: l
+m-may: description
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: top
+m-must: cn
+m-description: RFC2256: an application process
+m-obsolete: FALSE
+m-oid: 2.5.6.11
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.010Z
+m-name: applicationProcess
+entryParentId: d5c6c5ac-ff94-401c-9914-b894d9061f5e

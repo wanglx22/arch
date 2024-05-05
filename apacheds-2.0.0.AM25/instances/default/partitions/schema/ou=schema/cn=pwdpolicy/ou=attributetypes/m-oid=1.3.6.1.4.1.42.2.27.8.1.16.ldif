@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.42.2.27.8.1.16,ou=attributeTypes,cn=pwdpolicy,ou=schema
+entryCSN: 20240503133756.678000Z#000000#000#000000
+m-usage: DIRECTORY_OPERATION
+creatorsname: uid=admin,ou=system
+m-nousermodification: TRUE
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.24
+m-singlevalue: TRUE
+m-ordering: generalizedTimeOrderingMatch
+entryUUID: 2783795a-d551-41be-88b8-f19de363427f
+m-equality: generalizedTimeMatch
+m-description: The time the password was last changed
+m-oid: 1.3.6.1.4.1.42.2.27.8.1.16
+objectclass: metaTop
+objectclass: metaAttributeType
+objectclass: top
+createTimestamp: 20240503133758.446Z
+m-name: pwdChangedTime
+entryParentId: 022508f6-2209-44b2-a078-cdd44996e06b

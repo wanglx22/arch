@@ -1,0 +1,39 @@
+03-May-2024 13:07:58.766 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+03-May-2024 13:07:58.767 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+03-May-2024 13:07:58.777 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2024 13:08:05.904 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: undeploy: Undeploying web application at '/fortress-rest-2.0.3'
+03-May-2024 13:08:05.965 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2024 13:08:47.504 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+03-May-2024 13:08:47.505 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+03-May-2024 13:08:47.521 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: undeploy: Undeploying web application at '/fortress-rest-2.0.3'
+03-May-2024 13:08:47.522 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2024 13:08:51.172 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: undeploy: Undeploying web application at '/fortress-rest-2.0.3'
+03-May-2024 13:08:51.172 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2024 13:08:58.703 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2024 13:13:39.453 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+03-May-2024 13:13:39.453 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+03-May-2024 13:13:39.454 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/fortress-web'
+03-May-2024 13:13:39.464 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/fortress-web'
+03-May-2024 13:15:20.124 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/fortress-web'
+03-May-2024 13:15:20.124 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/wanglx/arch/apache-tomcat/webapps/fortress-web.war.tmp
+03-May-2024 13:16:12.400 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2024 13:16:14.731 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2024 13:16:42.905 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2024 14:16:51.350 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+03-May-2024 14:16:51.350 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+03-May-2024 14:16:51.356 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/fortress-web'
+03-May-2024 14:16:51.357 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to /home/wanglx/arch/apache-tomcat/webapps/fortress-web.war.tmp
+03-May-2024 14:19:31.189 INFO [http-nio-8080-exec-14] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+03-May-2024 14:19:31.189 INFO [http-nio-8080-exec-14] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+03-May-2024 14:19:31.191 INFO [http-nio-8080-exec-14] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2024 14:24:07.164 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+03-May-2024 14:24:07.165 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+03-May-2024 14:24:07.172 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2024 14:27:20.541 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+03-May-2024 14:27:20.541 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+03-May-2024 14:27:20.543 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2024 14:30:49.468 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2024 14:31:43.959 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+03-May-2024 22:26:40.993 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+03-May-2024 22:26:40.994 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+03-May-2024 22:26:41.007 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <ant antfile="/home/wanglx/arch/fortress-core-2.0.3/build-config.xml" target="init-fortress-config"/>
+</target>
+</project>

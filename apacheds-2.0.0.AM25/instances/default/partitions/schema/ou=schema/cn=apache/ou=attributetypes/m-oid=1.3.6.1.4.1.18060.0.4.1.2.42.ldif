@@ -1,0 +1,19 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.42,ou=attributeTypes,cn=apache,ou=schema
+entryCSN: 20240503133757.194000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.5
+m-singlevalue: TRUE
+entryUUID: 47259098-73b5-4cbb-b13f-6650a32e28ee
+m-description: The public key material used for TLS
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.42
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133757.923Z
+m-name: publicKey
+entryParentId: f75642d8-bcc3-4f32-b25a-b16345be2118

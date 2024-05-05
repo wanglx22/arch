@@ -1,0 +1,10 @@
+version: 1
+dn: ou=attributeTypes,cn=dhcp,ou=schema
+entryCSN: 20240503133756.914000Z#000001#000#000000
+ou: attributetypes
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20240503133758.354Z
+creatorsname: uid=admin,ou=system
+entryUUID: 4180bca8-af71-49ae-8ad0-416941dc9f74
+entryParentId: e1868a86-80bc-4137-8df3-9b3777198115

@@ -1,0 +1,10 @@
+version: 1
+dn: ou=matchingRules,cn=dhcp,ou=schema
+entryCSN: 20240503133756.917000Z#000002#000#000000
+ou: matchingrules
+objectclass: organizationalUnit
+objectclass: top
+createTimestamp: 20240503133758.120Z
+creatorsname: uid=admin,ou=system
+entryUUID: 49591296-77e6-40ef-bee4-6358e38b564a
+entryParentId: e1868a86-80bc-4137-8df3-9b3777198115

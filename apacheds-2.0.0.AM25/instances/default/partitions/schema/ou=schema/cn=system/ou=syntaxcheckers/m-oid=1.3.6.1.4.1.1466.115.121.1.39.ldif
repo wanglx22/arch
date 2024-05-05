@@ -1,0 +1,13 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.1466.115.121.1.39,ou=syntaxCheckers,cn=system,ou=schema
+entryCSN: 20240503133756.714000Z#000000#000#000000
+m-oid: 1.3.6.1.4.1.1466.115.121.1.39
+objectclass: metaSyntaxChecker
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133757.874Z
+creatorsname: uid=admin,ou=system
+entryUUID: 984d809e-f324-4237-970c-3394c0e2aa56
+m-fqcn: org.apache.directory.api.ldap.model.schema.syntaxCheckers.OtherMailboxSy
+ ntaxChecker
+entryParentId: b71729e8-6142-4cd0-9579-2ab35c423168

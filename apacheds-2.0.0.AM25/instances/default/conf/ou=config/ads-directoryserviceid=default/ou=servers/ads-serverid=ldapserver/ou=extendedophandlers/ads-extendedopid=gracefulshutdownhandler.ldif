@@ -1,0 +1,14 @@
+dn: ads-extendedOpId=gracefulShutdownHandler,ou=extendedOpHandlers,ads-serverId=
+ ldapServer,ou=servers,ads-directoryServiceId=default,ou=config
+ads-extendedopid: gracefulShutdownHandler
+entryCSN: 20240503133756.034000Z#000000#000#000000
+objectclass: ads-extendedOpHandler
+objectclass: ads-base
+objectclass: top
+createTimestamp: 20240503133756.034Z
+creatorsName: uid=admin,ou=system
+ads-extendedophandlerclass: org.apache.directory.server.ldap.handlers.extended.G
+ racefulShutdownHandler
+ads-enabled: TRUE
+entryUUID: 89ec74b2-fd89-4d09-a610-d0bb662b0c8e
+entryParentId: 806f5e18-0d1f-448a-8e27-d5f9723a0078

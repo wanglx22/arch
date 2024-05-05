@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.0.2.4,ou=attributeTypes,cn=apachemeta,ou=schema
+entryCSN: 20240503133756.859000Z#000000#000#000000
+m-usage: USER_APPLICATIONS
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.7
+m-singlevalue: TRUE
+entryUUID: 884b7b0e-4b7d-419c-9f56-6df83c3521a5
+m-equality: booleanMatch
+m-description: The type is obsolete
+m-obsolete: FALSE
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+m-oid: 1.3.6.1.4.1.18060.0.4.0.2.4
+createTimestamp: 20240503133758.201Z
+m-name: m-obsolete
+entryParentId: 55a22c1c-68cb-41af-8552-768eabdbb0b7

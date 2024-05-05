@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.920,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20240503133756.539000Z#000000#000#000000
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+m-ordering: integerOrderingMatch
+entryUUID: 0d9f9163-9364-4124-a474-5b7026b17feb
+m-equality: bigIntegerMatch
+m-description: the duration(in seconds) of consumer inactivity after which the a
+ ssociated log will be deleted. Defaults to 172800 seconds (i.e. 2 days)
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.920
+createTimestamp: 20240503133758.105Z
+m-name: ads-replLogMaxIdle
+entryParentId: aafd0ede-2af7-4d76-a0ab-856d8760ebb9

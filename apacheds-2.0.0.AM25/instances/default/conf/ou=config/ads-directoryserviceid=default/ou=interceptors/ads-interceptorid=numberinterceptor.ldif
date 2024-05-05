@@ -1,0 +1,15 @@
+dn: ads-interceptorId=numberInterceptor,ou=interceptors,ads-directoryServiceId=d
+ efault,ou=config
+entryCSN: 20240503133755.966000Z#000000#000#000000
+objectclass: top
+objectclass: ads-base
+objectclass: ads-interceptor
+createTimestamp: 20240503133755.966Z
+creatorsName: uid=admin,ou=system
+ads-enabled: FALSE
+entryUUID: 4f53789b-73ed-4f7e-bcf4-551d23798648
+ads-interceptorclassname: org.apache.directory.server.core.number.NumberIncremen
+ tingInterceptor
+ads-interceptororder: 17
+ads-interceptorid: numberInterceptor
+entryParentId: 1138fbea-1ca5-4d3f-ba7e-19a1034b8b23

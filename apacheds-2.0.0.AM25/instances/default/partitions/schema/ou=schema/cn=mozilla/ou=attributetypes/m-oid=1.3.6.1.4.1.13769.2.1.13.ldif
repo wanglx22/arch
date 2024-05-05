@@ -1,0 +1,21 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.13769.2.1.13,ou=attributeTypes,cn=mozilla,ou=schema
+entryCSN: 20240503133757.126000Z#000001#000#000000
+m-usage: USER_APPLICATIONS
+creatorsname: uid=admin,ou=system
+m-collective: FALSE
+m-nousermodification: FALSE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.50
+m-singlevalue: FALSE
+entryUUID: 8c01e7a2-c71c-49b5-9864-59f46fbd7e31
+m-substr: telephoneNumberSubstringsMatch
+m-equality: telephoneNumberMatch
+m-description: AOL Instant Messenger (AIM) Identity
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.13769.2.1.13
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133757.789Z
+m-name: nsAIMid
+entryParentId: c7a7e254-d816-49e1-9080-40c4583fe9ef

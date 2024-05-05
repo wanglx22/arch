@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=2.5.18.4,ou=attributeTypes,cn=system,ou=schema
+entryCSN: 20240503133756.753000Z#000000#000#000000
+m-usage: DIRECTORY_OPERATION
+m-collective: FALSE
+creatorsname: uid=admin,ou=system
+m-nousermodification: TRUE
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.12
+m-singlevalue: TRUE
+entryUUID: 29bedbfa-19a1-44e8-86b8-65a24e1a7c6a
+m-equality: distinguishedNameMatch
+m-description: RFC2252: name of last modifier
+m-obsolete: FALSE
+m-oid: 2.5.18.4
+objectclass: metaAttributeType
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.056Z
+m-name: modifiersName
+entryParentId: f17b13fb-ee58-4ce8-ae7a-b3e9f3a899da

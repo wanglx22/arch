@@ -1,0 +1,16 @@
+dn: ads-transportId=udp,ou=transports,ads-serverId=changePasswordServer,ou=serve
+ rs,ads-directoryServiceId=default,ou=config
+entryCSN: 20240503133756.016000Z#000000#000#000000
+ads-transportid: udp
+objectclass: ads-transport
+objectclass: ads-udpTransport
+objectclass: ads-base
+objectclass: top
+createTimestamp: 20240503133756.016Z
+ads-systemport: 60464
+ads-transportaddress: 0.0.0.0
+creatorsName: uid=admin,ou=system
+ads-enabled: TRUE
+entryUUID: b0c1e3dc-230a-45b1-8218-c691b6bb5d8e
+ads-transportnbthreads: 2
+entryParentId: 79619c34-d420-4aac-b7a4-84e855d078c7

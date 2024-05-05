@@ -1,0 +1,20 @@
+version: 1
+dn: m-oid=1.3.6.1.1.1.2.6,ou=objectClasses,cn=nis,ou=schema
+entryCSN: 20240503133757.018000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 54883a77-44d2-47b2-abf8-09d3fc560d8f
+m-may: l
+m-may: description
+m-may: manager
+m-typeobjectclass: AUXILIARY
+m-supobjectclass: top
+m-must: cn
+m-description: Abstraction of a host, an IP device
+m-obsolete: FALSE
+m-oid: 1.3.6.1.1.1.2.6
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.192Z
+m-name: ipHost
+entryParentId: f493f545-ea7e-41dd-aaea-0dca2e310328

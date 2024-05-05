@@ -1,0 +1,14 @@
+version: 1
+dn: m-oid=2.5.13.20,ou=matchingRules,cn=system,ou=schema
+entryCSN: 20240503133756.724000Z#000000#000#000000
+m-obsolete: FALSE
+m-oid: 2.5.13.20
+objectclass: metaMatchingRule
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.443Z
+m-name: telephoneNumberMatch
+creatorsname: uid=admin,ou=system
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.50
+entryUUID: ebe373f7-9942-4a94-9a53-200c6dc21f1b
+entryParentId: 0ccbfd84-c5db-4c99-b096-9f588f278574

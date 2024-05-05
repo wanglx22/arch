@@ -1,0 +1,18 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.2.131,ou=attributeTypes,cn=adsconfig,ou=schema
+entryCSN: 20240503133756.548000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+m-length: 0
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+m-singlevalue: TRUE
+m-ordering: integerOrderingMatch
+entryUUID: a727b851-dec2-4985-b00b-6766e8f005c2
+m-equality: integerMatch
+m-description: The Interceptor order number
+m-oid: 1.3.6.1.4.1.18060.0.4.1.2.131
+objectclass: top
+objectclass: metaTop
+objectclass: metaAttributeType
+createTimestamp: 20240503133758.316Z
+m-name: ads-interceptorOrder
+entryParentId: aafd0ede-2af7-4d76-a0ab-856d8760ebb9

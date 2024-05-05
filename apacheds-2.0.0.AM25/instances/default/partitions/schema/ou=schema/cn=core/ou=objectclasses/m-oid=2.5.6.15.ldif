@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=2.5.6.15,ou=objectClasses,cn=core,ou=schema
+entryCSN: 20240503133756.359000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 96a51f7a-7813-4fdc-b9ce-fcd6ce6bf1b1
+m-typeobjectclass: AUXILIARY
+m-supobjectclass: top
+m-must: userCertificate
+m-description: X.521 strong authentication user
+m-obsolete: FALSE
+objectclass: top
+objectclass: metaTop
+objectclass: metaObjectClass
+m-oid: 2.5.6.15
+createTimestamp: 20240503133758.420Z
+m-name: strongAuthenticationUser
+entryParentId: d5c6c5ac-ff94-401c-9914-b894d9061f5e

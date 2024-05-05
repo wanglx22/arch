@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=0.9.2342.19200300.100.4.19,ou=objectClasses,cn=core,ou=schema
+entryCSN: 20240503133756.350000Z#000000#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: fb0db4c3-b3ba-4cbc-85a8-d670ae0d629b
+m-typeobjectclass: AUXILIARY
+m-supobjectclass: top
+m-must: userPassword
+m-description: RFC1274: simple security object
+m-obsolete: FALSE
+m-oid: 0.9.2342.19200300.100.4.19
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.329Z
+m-name: simpleSecurityObject
+entryParentId: d5c6c5ac-ff94-401c-9914-b894d9061f5e

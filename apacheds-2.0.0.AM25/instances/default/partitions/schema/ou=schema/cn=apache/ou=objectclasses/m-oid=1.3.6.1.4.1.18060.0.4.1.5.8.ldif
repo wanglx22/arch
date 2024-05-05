@@ -1,0 +1,17 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.5.8,ou=objectClasses,cn=apache,ou=schema
+entryCSN: 20240503133757.212000Z#000001#000#000000
+creatorsname: uid=admin,ou=system
+entryUUID: 94b0d3b6-9cc6-4499-a0b1-9cbb7df942ca
+m-typeobjectclass: STRUCTURAL
+m-supobjectclass: storedProcUnit
+m-must: javaxScriptLangId
+m-must: javaxScriptCode
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.5.8
+objectclass: metaObjectClass
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.474Z
+m-name: javaxScriptStoredProcUnit
+entryParentId: b7f8daf2-823d-43c4-afad-6a146f06fbab

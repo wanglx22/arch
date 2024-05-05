@@ -1,0 +1,14 @@
+version: 1
+dn: m-oid=1.3.6.1.4.1.18060.0.4.1.1.2,ou=matchingRules,cn=apache,ou=schema
+entryCSN: 20240503133757.169000Z#000000#000#000000
+m-obsolete: FALSE
+m-oid: 1.3.6.1.4.1.18060.0.4.1.1.2
+objectclass: metaMatchingRule
+objectclass: metaTop
+objectclass: top
+createTimestamp: 20240503133758.419Z
+m-name: bigIntegerMatch
+creatorsname: uid=admin,ou=system
+m-syntax: 1.3.6.1.4.1.1466.115.121.1.27
+entryUUID: b4422bf4-e2dc-49a9-87fc-a442da489201
+entryParentId: 7563c210-dfe6-4050-89f1-2f08d3a0563f

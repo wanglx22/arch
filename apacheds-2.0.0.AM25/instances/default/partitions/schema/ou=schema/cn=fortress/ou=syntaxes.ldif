@@ -1,0 +1,10 @@
+dn: ou=syntaxes, cn=fortress, ou=schema
+entryCSN: 20240503133913.028000Z#000000#001#000000
+ou: syntaxes
+objectclass: top
+objectclass: organizationalUnit
+createTimestamp: 20240503133913.028Z
+creatorsName:: MC45LjIzNDIuMTkyMDAzMDAuMTAwLjEuMT0gYWRtaW4gLDIuNS40LjExPSBzeXN0Z
+ W0g
+entryUUID: ae622568-d61b-453c-be2b-de1444543b6a
+entryParentId: a6c9931f-e6ba-42d4-91d0-26c942df5774
